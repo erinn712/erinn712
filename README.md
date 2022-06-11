@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Erin</h1>
-<h3 align="center">A passionate software developer from Taiwan</h3>
+<h3 align="center">A passionate beginner in programming</h3>
 
-- 🌱 I’m currently learning **JavaScript, SQL**
+- 🌱 I’m currently learning **JavaScript, HTML5, CSS, SQL**
 
 - 📫 How to reach me **erinnliao@gmail.com**
 
